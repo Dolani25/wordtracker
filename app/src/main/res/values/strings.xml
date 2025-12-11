@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WordTracker</string>
+    <string name="service_notification_title">WordTracker Service</string>
+    <string name="service_notification_text">Monitoring clipboard for new words...</string>
+    <string name="action_toggle">Toggle</string>
+    <string name="word_added">Word added to collection</string>
+    <string name="service_started">WordTracker monitoring started</string>
+    <string name="service_stopped">WordTracker monitoring stopped</string>
+    <string name="search_hint">Search words...</string>
+    <string name="no_words_found">No words found</string>
+    <string name="no_favorites">No favorite words yet</string>
+    <string name="no_recent_words">No words collected yet</string>
+    <string name="settings_service_control">Service Control</string>
+    <string name="settings_data_management">Data Management</string>
+    <string name="settings_preferences">Preferences</string>
+    <string name="settings_about">About</string>
+</resources>
